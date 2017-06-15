@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tab_title">
+
+        <item>首页</item>
+        <item>订单</item>
+        <item>我的</item>
+        <item>更多</item>
+    </string-array>
+
+</resources>

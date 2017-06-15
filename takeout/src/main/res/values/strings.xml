@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TakeOut</string>
+    <string name="tab_home">home</string>
+    <string name="tab_oder">order</string>
+    <string name="tab_me">me</string>
+    <string name="tab_more">more</string>
+</resources>

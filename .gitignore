@@ -20,5 +20,10 @@ release.properties
 classes
 
 obj
-
+build.gradle
+gradle/
+gradlew
+gradlew.bat
+local.properties
+.gradle/
 .DS_Store
